@@ -1,2 +1,2 @@
 # FE-Recognition
-Emgucv face and eyes recognition in c#
+Face and eyes recognition in c#
